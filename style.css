@@ -83,6 +83,10 @@ p{
 }
 
 @media (min-width: 900px){
+    p{
+        margin: 2em 0 6em 0;
+    }
+    
     .container {
         flex-direction: row;
     }
