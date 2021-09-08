@@ -50,7 +50,7 @@ p{
  
 .sedans, .SUVs, .luxury {
     width: 80%;
-    padding: 5em 3.5em;
+    padding: 4em 3.125em;
     max-width: 24rem;
     margin: 0 auto;
 
@@ -86,7 +86,7 @@ p{
     p{
         margin: 2em 0 6em 0;
     }
-    
+
     .container {
         flex-direction: row;
     }
