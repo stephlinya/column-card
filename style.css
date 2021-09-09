@@ -18,6 +18,9 @@ p{
     font-family: 'Lexend Deca', sans-serif;
 }
 
+footer {
+    display: none;
+}
 
 .container { 
     display: flex;
